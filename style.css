@@ -1,0 +1,14 @@
+body {
+    font-family: 'roboto';
+}
+
+
+h1 {
+    text-align: center;
+    color: #461959; 
+    background-color:#CD6688 ;
+}
+
+.block {
+    background-color: rgb(255, 114, 138);
+}
