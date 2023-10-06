@@ -1,7 +1,30 @@
 body {
     font-family: 'roboto';
+    background: url("")
+    backround-size: cover;
 }
 
+a:link {
+    color:#333423;
+}
+
+.header {
+    display: flex;
+    backround-color: rgb(121, 240, 10);
+}
+
+.header-list {
+    display: flex;
+    list-style: none;
+}
+
+.header-list Ii {
+    margin: 0px 0px 0px 30px;
+}
+
+.header_link:link {
+    color:#58483;
+}
 
 h1 {
     text-align: center;
